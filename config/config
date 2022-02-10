@@ -1,0 +1,12 @@
+[general]
+pvss_path = "C:/Siemens/Automation/WinCC_OA/3.18"
+proj_path = "C:/project/testgitproj/TestWinCCOA"
+proj_version = "3.18"
+langs = "ru_RU.utf8"
+
+pmonPort = 4999
+[ui]
+versionControl = "git"
+defaultPanelFormat = "XML"
+numPanelBakFiles = 0
+
