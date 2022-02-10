@@ -27,7 +27,8 @@ void m()
 
 if(true)
 {
-true=true;
+// true=true;
+false=true;
 
 }
 }
